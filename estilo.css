@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(34, 230, 187, 0.799);
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#NossaTurma{
+    border: 10px solid black;
+}
+
+.imagem{
+    border: 10px transparent pink;
+    border-radius: 45%;
+    width: 50%;
+    height: 50%;
+}
+h1{
+    color: blue;
+}
+
+#parte1{
+    background-color: black;
+    color: green;
+    width: 50%;
+}
+
+#parte2{
+    background-color: green;
+    color: black;
+    width: 45%;
+}
+
+#parte3{
+    background-color: rgb(42, 3, 84);
+    color:antiquewhite;
+    width: 75%;
+}
+
+#parte4{
+    background-color: pink;
+    color: green;
+    width: 35%;
+}
